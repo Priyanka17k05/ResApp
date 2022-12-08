@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="tic_tac_toe"> Tic Tac Toe</string>
+    <string name="todo">gridview</string>
+    <string name="Grid">"main Grid view "</string>
+    <string name="Mygrid">GridView</string>
+
+</resources>
